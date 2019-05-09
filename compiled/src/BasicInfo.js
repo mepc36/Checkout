@@ -1,0 +1,19 @@
+import React from 'react';
+
+class BasicInfo extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {};
+  }
+
+  render() {
+    return React.createElement(
+      'div',
+      null,
+      'Basic Info.js'
+    );
+  }
+}
+
+export default BasicInfo;
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uL3NyYy9CYXNpY0luZm8uanMiXSwibmFtZXMiOlsiUmVhY3QiLCJCYXNpY0luZm8iLCJDb21wb25lbnQiLCJjb25zdHJ1Y3RvciIsInByb3BzIiwic3RhdGUiLCJyZW5kZXIiXSwibWFwcGluZ3MiOiJBQUFBLE9BQU9BLEtBQVAsTUFBa0IsT0FBbEI7O0FBRUEsTUFBTUMsU0FBTixTQUF3QkQsTUFBTUUsU0FBOUIsQ0FBd0M7QUFDdENDLGNBQVlDLEtBQVosRUFBbUI7QUFDakIsVUFBTUEsS0FBTjtBQUNBLFNBQUtDLEtBQUwsR0FBYSxFQUFiO0FBR0Q7O0FBRURDLFdBQVM7QUFDUCxXQUNFO0FBQUE7QUFBQTtBQUFBO0FBQUEsS0FERjtBQUdEO0FBWnFDOztBQWV4QyxlQUFlTCxTQUFmIiwiZmlsZSI6IkJhc2ljSW5mby5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCdcblxuY2xhc3MgQmFzaWNJbmZvIGV4dGVuZHMgUmVhY3QuQ29tcG9uZW50IHtcbiAgY29uc3RydWN0b3IocHJvcHMpIHtcbiAgICBzdXBlcihwcm9wcyk7XG4gICAgdGhpcy5zdGF0ZSA9IHtcblxuICAgIH1cbiAgfVxuICBcbiAgcmVuZGVyKCkge1xuICAgIHJldHVybiAoXG4gICAgICA8ZGl2PkJhc2ljIEluZm8uanM8L2Rpdj5cbiAgICApXG4gIH1cbn1cblxuZXhwb3J0IGRlZmF1bHQgQmFzaWNJbmZvIl19
